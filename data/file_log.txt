@@ -1,0 +1,4 @@
+1 - Serviço inserido: Financeiro
+2 - Serviço inserido: TI
+3 - Serviço inserido: Recursos Humanos 
+4 - Serviço inserido: Suporte
