@@ -1,6 +1,6 @@
-# De-Para Octadesk para a Migração Movidesk - v 2.0
+# Importação de serviços em massa via API Movidesk - v 1.0
 
-Este programa consiste em consumir dados da API Octadesk e alimentar uma planilha para criação de um De-Para de campos que serão utilizados na migração entre API Octadesk e Movidesk.
+Este programa consiste em importar os serviços em massa de uma planilha com layout padrão para dentro do Movidesk usando API. Foi projetado para apoiar o time de consultoria do Movidesk.
 
 
 ## Uso
